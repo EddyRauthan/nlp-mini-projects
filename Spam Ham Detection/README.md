@@ -6,6 +6,7 @@ Tech: Python, Scikit-learn, NLTK, Pandas
 
 Dataset: SMS Spam Collection (labeled messages)
 
-Features: Text cleaning, TF-IDF vectorization, Naive Bayes / Logistic Regression
+Features: Text cleaning, TF-IDF vectorization, Logistic Regressio
 
 Goal: Practice NLP basics and build a simple spam detection system
+
